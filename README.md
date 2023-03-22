@@ -1,8 +1,5 @@
 ### 👋🏾 Hi There
 
-<!--
-**vakhil03/vakhil03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Akhil. I'm a Sophomore at UC Berkeley passionate about working with the latest technologies and harnessing the power of data to change the world.
 
 I am currently pursuing a degree in Data Science & Economics.

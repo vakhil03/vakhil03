@@ -46,5 +46,5 @@ Originally from Kerala, India, I was born in Finland and lived in Singapore for 
 
 ### 👇🏾 Lets Connect!
 - [LinkedIn](https://www.linkedin.com/in/akhilvenkatesh/)
-- [Email](akhil.v@berkeley.edu)
+- [Email](mailto:akhil.v@berkeley.edu)
  

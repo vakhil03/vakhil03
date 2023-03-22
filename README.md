@@ -1,6 +1,8 @@
 ### 👋🏾 Hi There!
 
-My name is Akhil. I'm a Sophomore at UC Berkeley passionate about working with the latest technologies and harnessing the power of data to change the world.
+My name is Akhil. 
+
+I'm a Sophomore at UC Berkeley passionate about working with the latest technologies and harnessing the power of data to change the world.
 
 I am currently pursuing a degree in Data Science & Economics with an expected graduation date in May of 2025.
 

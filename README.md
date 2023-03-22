@@ -17,10 +17,11 @@ Originally from Kerala, India, I was born in Finland and lived in Singapore for 
  
  
  <p align="center">
-<h3 align="center">Data Science Tools:</h3>
+<h3 align="center">Data Visualization Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce">
  
  

@@ -26,7 +26,8 @@ Originally from Kerala, India, I was born in Finland and lived in Singapore for 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</p>
+
 
 👇🏾 Lets Connect!
 <a href="https://www.linkedin.com/in/akhilvenkatesh/">
+</p>

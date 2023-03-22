@@ -1,10 +1,10 @@
-### 👋🏾 Hi There
+### 👋🏾 Hi There!
 
 My name is Akhil. I'm a Sophomore at UC Berkeley passionate about working with the latest technologies and harnessing the power of data to change the world.
 
-I am currently pursuing a degree in Data Science & Economics.
+I am currently pursuing a degree in Data Science & Economics with an expected graduation date in May of 2025.
 
-Originally from Kerala, India, I was born in Finland and lived in Singapore for 10 years before moving to the United States for my undergraduate studies. I am especially involved in social impact entrepreneurship, data consulting, and innovation. 
+Originally from Kerala, India, I was born in Finland and lived in Singapore for 10 years before moving to the United States for my undergraduate studies. I am especially involved in social impact entrepreneurship, data consulting, and innovation. I am a United Nations Awardee, National BNY Mellon Fellow, Gold-Tier Innovation Fellow, and serve on the National Student Advisory board for Enactus, a global social impact entrepreneurship movement. I have previously interned with a global startup accelerator and been a data consultant for a fintech startup based out of San Francisco. I'm constantly looking for the next big challenge!
 
 <p align="center">
 <h3 align="center">Languages I've Worked With:</h3>
@@ -25,7 +25,7 @@ Originally from Kerala, India, I was born in Finland and lived in Singapore for 
  
  
  <p align="center">
-<h3 align="center">Machine Learning Frameworks & Libraries</h3>
+<h3 align="center">Machine Learning Frameworks & Libraries:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
@@ -38,13 +38,13 @@ Originally from Kerala, India, I was born in Finland and lived in Singapore for 
  
 
 <p align="center">
-<h3 align="center">Integrated Development Environments (IDEs)</h3>
+<h3 align="center">Integrated Development Environments (IDEs):</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ">
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="RStudio">
 
-👇🏾 Lets Connect!
-[Linkedin](https://www.linkedin.com/in/akhilvenkatesh/)
-[Email](akhil.v@berkeley.edu)
+### 👇🏾 Lets Connect!
+- [LinkedIn](https://www.linkedin.com/in/akhilvenkatesh/)
+- [Email](akhil.v@berkeley.edu)
  

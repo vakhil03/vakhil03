@@ -8,7 +8,7 @@ I am currently pursuing a degree in Data Science & Economics with an expected gr
 
 Originally from Kerala, India, I was born in Finland and lived in Singapore for 10 years before moving to the United States for university.
 
-I am a United Nations Awardee, National BNY Mellon Fellow, Gold-Tier Innovation Fellow, and serve on the National Student Advisory board for Enactus, a global social impact entrepreneurship movement. I have previously interned with a global startup accelerator and been a data consultant for a fintech startup based out of San Francisco. I'm constantly looking for the next big challenge!
+I am a United Nations Awardee, National BNY Mellon Fellow, Gold-Tier SCET Innovation Fellow, and serve on the National Student Advisory board for Enactus, a global social impact entrepreneurship movement. I have previously interned with a global startup accelerator, a global marine & energy manufacturing company, and garnered experience as a data consultant building a recommender system for a fintech startup based out of San Francisco. I'm constantly looking for the next big challenge!
 
 <p align="center">
 <h3 align="center">Languages I've Worked With:</h3>

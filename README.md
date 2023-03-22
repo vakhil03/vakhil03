@@ -4,7 +4,9 @@ My name is Akhil. I'm a Sophomore at UC Berkeley passionate about working with t
 
 I am currently pursuing a degree in Data Science & Economics with an expected graduation date in May of 2025.
 
-Originally from Kerala, India, I was born in Finland and lived in Singapore for 10 years before moving to the United States for my undergraduate studies. I am especially involved in social impact entrepreneurship, data consulting, and innovation. I am a United Nations Awardee, National BNY Mellon Fellow, Gold-Tier Innovation Fellow, and serve on the National Student Advisory board for Enactus, a global social impact entrepreneurship movement. I have previously interned with a global startup accelerator and been a data consultant for a fintech startup based out of San Francisco. I'm constantly looking for the next big challenge!
+Originally from Kerala, India, I was born in Finland and lived in Singapore for 10 years before moving to the United States for my undergraduate studies.
+
+I am a United Nations Awardee, National BNY Mellon Fellow, Gold-Tier Innovation Fellow, and serve on the National Student Advisory board for Enactus, a global social impact entrepreneurship movement. I have previously interned with a global startup accelerator and been a data consultant for a fintech startup based out of San Francisco. I'm constantly looking for the next big challenge!
 
 <p align="center">
 <h3 align="center">Languages I've Worked With:</h3>

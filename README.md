@@ -2,9 +2,9 @@
 
 My name is Akhil. 
 
-I'm a Sophomore at UC Berkeley passionate about working with the latest technologies and harnessing the power of data to change the world.
+I'm a Junior at UC Berkeley passionate about working with the latest technologies and harnessing the power of data to change the world.
 
-I am currently pursuing a degree in Data Science & Economics with an expected graduation date in May of 2025.
+I am currently pursuing a degree in Data Science & Economics with an expected graduation date in December of 2024.
 
 Originally from India, I was born in Finland and lived in Singapore for 10 years before moving to the United States for university.
 
